@@ -1,6 +1,5 @@
 #include<unordered_map>
 #include<iostream>
-#include<vector>
 #include<chrono>
 #include<cstdint>
 #include<map>
